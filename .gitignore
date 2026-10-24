@@ -7,3 +7,7 @@ __pycache__/
 !.env.example
 playwright-report/
 test-results/
+report.html
+.vscode/
+.DS_Store
+Thumbs.db
