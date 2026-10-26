@@ -23,16 +23,14 @@ Tech Stack
 Project Structure
 
 python-sdet-framework/
-├── pages/
-│   └── login_page.py
-├── tests/
-│   ├── test_login.py
-│   ├── test_api.py
-│   └── api_helpers.py
-├── conftest.py
-├── .gitignore
-├── run_tests.ps1
-└── README.md
+pages/login_page.py
+tests/test_login.py
+/test_api.py
+/api_helpers.py
+conftest.py
+.gitignore
+run_tests.ps1
+README.md
 
 Run the Tests
 
